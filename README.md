@@ -23,9 +23,8 @@ Analyzed healthcare data with over 10,000 records to identify trends in symptom 
 Built a tool using Kaggle data to help users monitor expenses and visualize spending patterns.  
 - Applied data transformation to create user-friendly, interactive dashboards
 
-### [Stock Market Analysis]
+### [Stock Market Analysis](https://github.com/Zinathii/Stock-Market-Analysis)
 Analyzed stock market data for AAPL, MSFT, NFLX, and GOOG to evaluate trends, volatility, correlations, and risk-return trade-offs.
-
 Explored stock performance over February to May 2023
 Visualized trends and volatility to aid in investment decisions
 Provided insights into the best stock options for long-term and risk-tolerant investors
